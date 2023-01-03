@@ -13,6 +13,7 @@
  
  
 ## Tech Stack and features
+- React
 - Javascript
 - HTML
 - CSS
