@@ -27,4 +27,4 @@
     Most focused on Functionality part.
 </h3>
 <br/> <br/>
-![youtub](https://user-images.githubusercontent.com/107474970/210440366-0f1bf338-0559-4a7c-90b0-7fefa90501c2.png)
+<img sec="https://user-images.githubusercontent.com/107474970/210440366-0f1bf338-0559-4a7c-90b0-7fefa90501c2.png">
